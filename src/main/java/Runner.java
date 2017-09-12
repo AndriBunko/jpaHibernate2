@@ -33,6 +33,5 @@ public class Runner {
 
         dishDao.close();
         emf.close();
-
     }
 }
